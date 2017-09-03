@@ -26,7 +26,6 @@
 					  
 							orbitr_the_custom_logo(); ?>
 					<?php } else { ?>
-
 						<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php bloginfo( 'name' ); ?>" class="plain"><?php bloginfo( 'name' ); ?></a>
 					<?php } ?>
 				</div>		
@@ -45,7 +44,6 @@
             </div><!-- container -->
         </div><!-- header-wrapper -->
 	</header><!-- #masthead -->
-
 
     <!-- this code is used for a button that go to top of website -->
         <div class="container">    
